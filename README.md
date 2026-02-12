@@ -1,4 +1,4 @@
-# BaKoMa.TeX re-constructed installer
+# Reconstruct BaKoMa.TeX installer
 The BaKoMa TeX installer can be downloaded from https://bakoma-tex.daniel-aldrich.ca/home, but it is no longer available for trial use. By reconstructing the installer, you will be able to register it so that it can be used properly.
 
 # Portable_BaKoMa.TeX
